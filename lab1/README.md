@@ -25,5 +25,70 @@
 
 ![A screen capture showing the time (found in the Time column on the left) that each step of the handshake occurred](./imgs/Screen Shot 2020-01-27 at 1.37.33 PM.png)
 
+
+
+
+
 ## Section 2
 
+### Part 1
+
+####  A screen capture showing the filtered TCP port 80 traffic in Wireshark
+
+![](E:\Users\jaeks\Documents\GitHub\CMPT418-MobileSecurity\lab1\imgs\2.1.1.PNG)
+
+
+
+#### A screen capture showing the fields related to time of the first frame in WireShark
+
+![](E:\Users\jaeks\Documents\GitHub\CMPT418-MobileSecurity\lab1\imgs\2.1.2.PNG)
+
+
+
+### Part 2
+
+#### The number of bytes captured vs bytes on the wire of frame 8 in Wireshark
+
+![](E:\Users\jaeks\Documents\GitHub\CMPT418-MobileSecurity\lab1\imgs\2.2.1.PNG)
+
+
+
+#### The manufacturer of the destination device of frame 8 displayed in Wireshark
+
+![](E:\Users\jaeks\Documents\GitHub\CMPT418-MobileSecurity\lab1\imgs\2.2.2.png)
+
+
+
+#### The source IP address of frame 8 in Wireshark
+
+![](E:\Users\jaeks\Documents\GitHub\CMPT418-MobileSecurity\lab1\imgs\2.2.3.png)
+
+
+
+#### The list of cipher suites used on frame 8 in Wireshark
+
+![](E:\Users\jaeks\Documents\GitHub\CMPT418-MobileSecurity\lab1\imgs\2.2.4.PNG)
+
+
+
+#### The issuer of the SSL certificate displayed in Wireshark hex pane
+
+![](E:\Users\jaeks\Documents\GitHub\CMPT418-MobileSecurity\lab1\imgs\2.2.5.PNG)
+
+
+
+#### The certificate information contained in frame 111, displayed in Wireshark
+
+![](E:\Users\jaeks\Documents\GitHub\CMPT418-MobileSecurity\lab1\imgs\2.2.6.PNG)
+
+
+
+#### The public key and signature hash for the certificate contained in frame 112, displayed in Wireshark
+
+![](E:\Users\jaeks\Documents\GitHub\CMPT418-MobileSecurity\lab1\imgs\2.2.7.PNG)
+
+
+
+#### The DNS query in packet 1, displayed in Wireshark
+
+![](E:\Users\jaeks\Documents\GitHub\CMPT418-MobileSecurity\lab1\imgs\2.2.8.PNG)
