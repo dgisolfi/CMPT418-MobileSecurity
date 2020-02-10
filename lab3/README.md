@@ -37,6 +37,10 @@
 
 
 
+
+
+### Part 2
+
 #### The *EkstractGisolfi* directory created on TargetWindows01
 
 This directory was created once a firewall rule was successfully implemented allowing RDP traffic from vWorkstation to TargetWindows01
