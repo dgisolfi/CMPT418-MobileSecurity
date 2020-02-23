@@ -5,10 +5,10 @@
 ## Section 1
 
 ### A screen capture showing the detail found in the IEEE 802.11 QoS Data fields
-![ a screen capture showing the detail found in the IEEE 802.11 QoS Data fields](/imgs/IEEE_802.11_QoS_data_fields.png)
+![ a screen capture showing the detail found in the IEEE 802.11 QoS Data fields](./imgs/IEEE_802.11_QoS_data_fields.png)
 
 ### A screen capture showing the query name (www.polito.it), the source IP address, and the destination IP address
-![a screen capture showing the query name](/imgs/polito_source_and_destination_ip.png)
+![a screen capture showing the query name](./imgs/polito_source_and_destination_ip.png)
 
 ### A screen capture of the DNS query showing the Hostname Alias, the Source IP Address, and the Destination IP Address fields
 
