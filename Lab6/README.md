@@ -22,4 +22,7 @@
 
 ### Firewall Software
 
-**Version:** 6.2.01
+**Version:** 2.4.4
+
+**site**: https://www.pfsense.org/download/
+
