@@ -44,6 +44,8 @@
 
 
 
+#### Details about each corporate officer of Corporation Techs from LinkedIn
+
 | Name           | Position | Alma Mater                 | Years Attended | Location    | Longest Company Career |
 | -------------- | -------- | -------------------------- | -------------- | ----------- | ---------------------- |
 | Andrew Symonds | CEO      | San Diego State University |                | Addison, TX | Wodash Incorporated    |
