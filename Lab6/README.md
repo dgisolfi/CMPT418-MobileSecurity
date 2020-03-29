@@ -6,7 +6,7 @@
 
 ### A screen capture showing the whois information for Global Enterprises
 
-![whois info](./imgs/whois_info.png)
+****![whois info](./imgs/whois_info.png)
 
 ### A screen capture showing LouAnne’s GetConnected profile
 
