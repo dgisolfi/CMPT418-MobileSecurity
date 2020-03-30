@@ -26,3 +26,44 @@
 ### **screen capture** showing **the IPsec Rules table**
 
 ![IPsec Rules table](./imgs/ip_sec_rules_table.png)
+
+
+
+
+
+## Section 2
+
+### Part 1
+
+#### The CA configuration form displayed in pfSense
+
+![](imgs\2.1.1.PNG)
+
+
+
+#### The client settings section of the pfSense OpenVPN wizard
+
+![](imgs\2.1.2.PNG)
+
+
+
+
+
+### Part 2
+
+#### The completed OpenVPN configuration
+
+![](imgs\2.2.1.PNG)
+
+
+
+#### The OpenVPN rule on the WAN rules table
+
+![](imgs\2.2.2.PNG)
+
+
+
+#### The OpenVPN rule on the OpenVPN rules table
+
+![](imgs\2.2.3.PNG)
+
