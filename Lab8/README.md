@@ -37,3 +37,55 @@
 ### Screen capture showing the last frames in the ESP exchange
 
 ![esp exchange](./imgs/esp_exchange.png)
+
+
+
+
+
+
+
+## Section 2
+
+### Part 1
+
+#### The successful VPN connection
+
+![](imgs\2.1.1.PNG)
+
+
+
+#### The IPsec VPN connection encrypted with AES 256
+
+![](imgs\2.1.2.PNG)
+
+
+
+### Part 2
+
+#### The isakmp protocol frames displayed in Wireshark
+
+![](imgs\2.2.1.PNG)
+
+
+
+#### The filtered FTP frames displayed in Wireshark
+
+![](imgs\2.2.2.PNG)
+
+
+
+#### The contents of file.txt displayed in Wireshark
+
+![](imgs\2.2.3.PNG)
+
+
+
+#### The filtered SSH frames displayed in Wireshark
+
+![](imgs\2.2.4.PNG)
+
+
+
+#### The frame in which the new key is saved to the client:
+
+Frame 568 in EkstractGisolfi_livecapture.pcapng
