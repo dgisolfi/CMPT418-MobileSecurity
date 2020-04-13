@@ -28,3 +28,16 @@ Regards
 
 
 
+## Section 2
+
+### Part 1
+
+#### The VPN IP address
+
+![](imgs\2.1.1.PNG)
+
+
+
+#### The VPN password
+
+![](imgs\2.1.2.PNG)
